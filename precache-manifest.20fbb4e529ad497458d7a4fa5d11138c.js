@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/2018-interactive-web-apps-project-tero-yrjola/static/js/runtime~main.69696ef3.js"
   },
   {
-    "revision": "8671f75f5ab9bde6b8b3",
-    "url": "/2018-interactive-web-apps-project-tero-yrjola/static/js/main.8671f75f.chunk.js"
+    "revision": "138b98f4ccbec0bc26c5",
+    "url": "/2018-interactive-web-apps-project-tero-yrjola/static/js/main.138b98f4.chunk.js"
   },
   {
-    "revision": "45ad818947dced6bb5d0",
-    "url": "/2018-interactive-web-apps-project-tero-yrjola/static/js/1.45ad8189.chunk.js"
+    "revision": "dc417132c57d2c58836f",
+    "url": "/2018-interactive-web-apps-project-tero-yrjola/static/js/1.dc417132.chunk.js"
   },
   {
-    "revision": "8671f75f5ab9bde6b8b3",
+    "revision": "138b98f4ccbec0bc26c5",
     "url": "/2018-interactive-web-apps-project-tero-yrjola/static/css/main.560995b6.chunk.css"
   },
   {
-    "revision": "a515db8c498581c568187a4231b5a144",
+    "revision": "2a2480329fff5c2cda74646117a81e51",
     "url": "/2018-interactive-web-apps-project-tero-yrjola/index.html"
   }
 ];
