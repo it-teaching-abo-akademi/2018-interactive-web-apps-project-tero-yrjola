@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/2018-interactive-web-apps-project-tero-yrjola/precache-manifest.451f17a78929584932a1f3d6127694fc.js"
+  "/2018-interactive-web-apps-project-tero-yrjola/precache-manifest.910aa89a68761d473192ffaaf37246f5.js"
 );
 
 workbox.clientsClaim();
